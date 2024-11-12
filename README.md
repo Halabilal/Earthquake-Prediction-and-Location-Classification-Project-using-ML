@@ -1,0 +1,1 @@
+# Earthquake-Prediction-and-Location-Classification-Project-using-ML
